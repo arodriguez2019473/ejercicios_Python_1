@@ -7,4 +7,3 @@ if numero['numero1'] > numero['numero2']:
     print ('el numero es mayor')
 
 
-    
